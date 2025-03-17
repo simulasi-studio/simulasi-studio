@@ -1,2 +1,2 @@
 # Simulasi Studio
-- My random project in (https://simulasi.studio)[https://simulaasi.studio]
+- My random project in [simulasi.studio](https://simulaasi.studio)
